@@ -7,6 +7,9 @@ This application allows user to upload a music file and get a composing sheet.
 # Deployment
 Application deployed on two servers. The functional application (music_to_sheet.py) is running on aws and the interactive application (app.py) is running on streamlit.
 
+# Self trial
+For people interested in local trials, they can download the code in the folder self_serve. But be sure to download musescore3/4 before use.
+
 # Further improvement
 1. Integrate the functional part into streamlit server.
 2. Manage multiple tracks.
