@@ -10,4 +10,12 @@ Application deployed on two servers. The functional application (music_to_sheet.
 # Further improvement
 1. Integrate the functional part into streamlit server.
 2. Manage multiple tracks.
-3. Higher accuracy.
+3. Better performance to handle features like sustain peddles.
+
+# Library
+1. [Basic-Pitch](https://github.com/spotify/basic-pitch) A Deep Learning Model from Spotify allows converting music into midi files.
+2. [MuseScore](https://github.com/musescore/MuseScore) An open source and free music notation software with which users can edit midi files and create sheet music.
+3. [Streamlit](https://github.com/streamlit/streamlit) A library that eases creating interactive web application and provides community cloud for deployment.
+
+# DevFest2025
+This project is part of [DevFest2025](https://devfest2025.devpost.com/).
